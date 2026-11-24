@@ -11,8 +11,8 @@ This project demonstrates a complete pipeline combining:
 
 ### Models Used
 
-- **StarCoderBase-1B** (fine-tuned with LoRA) – Generates Python (matplotlib) chart code from text → [dormosol/starcoderbase-chartgen-lora](https://huggingface.co/dormosol/starcoderbase-chartgen-lora)
-- **Qwen2-VL-2B-Instruct** (fine-tuned with QLoRA) – Performs visual question answering on chart images → [vlaaa13/qwen2vl-2b-chartqa-qlora-2500-v3](https://huggingface.co/vlaaa13/qwen2vl-2b-chartqa-qlora-2500-v3)
+- **StarCoderBase-1B** (fine-tuned with LoRA) – Generates Python (matplotlib) chart code from text
+- **Qwen2-VL-2B-Instruct** (fine-tuned with QLoRA) – Performs visual question answering on chart images
 
 ---
 
